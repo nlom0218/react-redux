@@ -1,0 +1,12 @@
+.toDoList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.toDoList_item{
+    text-decoration: none;
+    color: black;
+}
